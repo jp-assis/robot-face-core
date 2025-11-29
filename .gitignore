@@ -1,0 +1,5 @@
+# Personal dev env
+.docker/
+
+pycache/
+*.tmp
